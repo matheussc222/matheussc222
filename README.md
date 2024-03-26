@@ -1,4 +1,4 @@
-# [Matheus] <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" width="120px">
+# [Matheus] <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" >
 
 Eu sou <strong>matheus</strong>, <strong>ola meu nome e matheus moro no brazil (recife-pernambuco)  </strong> 👨🏻‍💻 
 
