@@ -1,10 +1,10 @@
-# [Matheus] <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" >
+# [Matheus] <img src="gif aqui " >
 
-Eu sou <strong>matheus</strong>, <strong>ola meu nome e matheus moro no brazil (recife-pernambuco)  </strong> 👨🏻‍💻 
+ <strong>ola meu nome e matheus,moro no brasil em recife pernambuco,tenho 17 anos  </strong> 
 
-- 🚀 Atualmente estou aprendendo: <strong>inglês</strong> 
-- 💬 Pergunte-me sobre: <strong>cantar,caminhar,jogar videogames,academia</strong>
-- 📣 Nós podemos falar em: <strong>português / iglish</strong>
+- 🚀 Atualmente estou aprendendo: <strong>java e html</strong> 
+- 💬 Pergunte-me sobre: <strong>jogar videogames,academia</strong>
+- 📣 Nós podemos falar em: <strong>português / English</strong>
 
 <div align="center">
 
